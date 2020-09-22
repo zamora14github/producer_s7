@@ -1,0 +1,6 @@
+org/plc4x/kafka/KafkaJsonSerializer.class
+org/plc4x/kafka/KafkaJsonDeserializer.class
+org/plc4x/kafka/SimpleApp_s7.class
+org/plc4x/kafka/TemplateJSON.class
+org/plc4x/kafka/SimpleApp_s7$1.class
+org/plc4x/kafka/Producer.class

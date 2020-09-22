@@ -1,0 +1,5 @@
+/home/david/IdeaProjects/producer_s7/src/main/java/org/plc4x/kafka/TemplateJSON.java
+/home/david/IdeaProjects/producer_s7/src/main/java/org/plc4x/kafka/Producer.java
+/home/david/IdeaProjects/producer_s7/src/main/java/org/plc4x/kafka/KafkaJsonSerializer.java
+/home/david/IdeaProjects/producer_s7/src/main/java/org/plc4x/kafka/SimpleApp_s7.java
+/home/david/IdeaProjects/producer_s7/src/main/java/org/plc4x/kafka/KafkaJsonDeserializer.java
